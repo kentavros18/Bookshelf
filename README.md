@@ -1,9 +1,7 @@
 Bookshelf
 =========
 
-Bookshelf is useful for storing book library and tracking their reading progress.
----------------------------------------------------------------------------------
-
+### Bookshelf is useful for storing book library and tracking their reading progress.
 
 
 ### Features:
